@@ -4,3 +4,4 @@
 * lime $0.25
 * salt $0.10
 ## Instructions
+* put one avocado into a bowl.
